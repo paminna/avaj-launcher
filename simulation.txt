@@ -1,0 +1,408 @@
+Baloon#B1(1): Let's enjoy the good weather and take some pics.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+JetPlane#J1(3): OMG! Winter is coming!
+Helicopter#H1(4): My rotor is going to freeze!
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): It's foggy...
+JetPlane#J2(8): It's foggy...
+Helicopter#H4(9): Oh, it's rain!
+
+ END OF ITERATION 0
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Baloon#B2(2): Damn you rain! You messed up my baloon.
+JetPlane#J1(3): It's raining. Better watch out for lightings.
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): This is hot.
+Baloon#B3(7):  It's snowing. We're gonna crash.
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 1
+
+Baloon#B1(1): Damn you rain! You messed up my baloon.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+JetPlane#J2(8): It's raining. Better watch out for lightings.
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 2
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2): Damn you rain! You messed up my baloon.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7):  It's snowing. We're gonna crash.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 3
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 4
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2): Damn you rain! You messed up my baloon.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 5
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 6
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 7
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 8
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 9
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 10
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 11
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 12
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 13
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 14
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 15
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 16
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 17
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 18
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 19
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 20
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 21
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 22
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 23
+
+Baloon#B1(1):  It's snowing. We're gonna crash.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B2(2):  It's snowing. We're gonna crash.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Here is so sunny!
+Helicopter#H1(4): My rotor is going to freeze!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor is going to freeze!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+Baloon#B3(7): Damn you rain! You messed up my baloon.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): Here is so sunny!
+Helicopter#H4(9): This is hot.
+
+ END OF ITERATION 24
+
